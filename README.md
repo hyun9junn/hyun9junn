@@ -62,7 +62,7 @@ Undergraduate student at Seoul National University majoring in Civil and Environ
 
 ## Projects
 
-### [K-EXAONE Quantization](https://https://huggingface.co/Hyun9junn/K-EXAONE-236B-A23B-W4A16-G128)
+### [K-EXAONE Quantization](https://huggingface.co/Hyun9junn/K-EXAONE-236B-A23B-W4A16-G128)
 Quantized LG AI Research K-EXAONE model into W4A16 AWQ format
 - Published deployable checkpoints on Hugging Face
 - Validated compatibility with vLLM serving stack
