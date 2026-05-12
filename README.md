@@ -1,7 +1,4 @@
 # Hyungjun Kim
-email: khjmove@snu.ac.kr
-
-[Linkedin](https://www.linkedin.com/in/hyungjun-kim-200581389/?locale=en-US)
 
 ## Summary
 Undergraduate student at Seoul National University majoring in Civil and Environmental Engineering with an interdisciplinary major in Artificial Intelligence. Strong interest in Large Language Models (LLMs), especially quantization, efficient inference, and deploying AI systems to real-world industrial environments. Hands-on experience through internships at AI startups, research labs, and production engineering teams.
@@ -27,3 +24,12 @@ Undergraduate student at Seoul National University majoring in Civil and Environ
 
 ### Gyeonggi Science High School
 *2017.03 – 2020.02*
+
+## For More Details
+
+[Full CV](https://github.com/hyun9junn/hyun9junn/blob/main/HJ_CV.pdf)
+
+## Contact
+
+- Email: khjmove@snu.ac.kr
+- LinkedIn: [Hyungjun Kim](https://www.linkedin.com/in/hyungjun-kim-200581389/?locale=en-US)
