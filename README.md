@@ -1,5 +1,6 @@
 # Hyungjun Kim
 email: khjmove@snu.ac.kr
+
 [Linkedin](https://www.linkedin.com/in/hyungjun-kim-200581389/?locale=en-US)
 
 ## Summary
@@ -22,7 +23,7 @@ Undergraduate student at Seoul National University majoring in Civil and Environ
 ## Education
 
 ### B.S. Civil and Environmental Engineering / I.M. Artificial Intelligence — Seoul National University
-*2020.03 – Present* · GPA: 3.92
+*2020.03 – Present*
 
 ### Gyeonggi Science High School
 *2017.03 – 2020.02*
